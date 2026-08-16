@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/banner.svg" alt="Aman Srivastav - GitHub Profile Banner" width="100%">
+<img src="./banner.svg" alt="Aman Srivastav - GitHub Profile Banner" width="100%">
 
 Hi 👋, I'm Aman Srivastav
 
