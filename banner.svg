@@ -1,0 +1,23 @@
+<svg width="1200" height="320" viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0d1117"/>
+      <stop offset="55%" stop-color="#161b22"/>
+      <stop offset="100%" stop-color="#0b3d3a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#58a6ff"/>
+      <stop offset="50%" stop-color="#2ea043"/>
+      <stop offset="100%" stop-color="#a371f7"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="24" fill="url(#bg)"/>
+  <circle cx="1040" cy="65" r="150" fill="#58a6ff" opacity="0.06"/>
+  <circle cx="1120" cy="250" r="190" fill="#2ea043" opacity="0.06"/>
+  <path d="M0 270 C180 210 270 315 440 250 S720 180 880 245 S1080 300 1200 220" fill="none" stroke="url(#line)" stroke-width="3" opacity="0.75"/>
+  <text x="70" y="95" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="22" letter-spacing="5">BACKEND • FULL STACK DEVELOPER</text>
+  <text x="70" y="160" fill="#f0f6fc" font-family="Arial, Helvetica, sans-serif" font-size="58" font-weight="700">AMAN SRIVASTAV</text>
+  <text x="70" y="205" fill="#c9d1d9" font-family="Arial, Helvetica, sans-serif" font-size="24">Python • Django • DRF • React • PostgreSQL • Redis • Docker</text>
+  <rect x="70" y="235" width="290" height="3" rx="2" fill="url(#line)"/>
+  <text x="70" y="275" fill="#8b949e" font-family="Arial, Helvetica, sans-serif" font-size="18">Building scalable APIs, AI-powered products &amp; developer tools.</text>
+</svg>
